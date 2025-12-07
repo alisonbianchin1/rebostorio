@@ -284,7 +284,7 @@ export default function Home() {
                 <p>DA HIPER-EFICIÊNCIA.</p>
               </div>
               <div className="text-right">
-                <p className="mb-1">2035</p>
+                <p className="mb-1">2025</p>
                 <p>Sorocaba, SP</p>
               </div>
             </div>
